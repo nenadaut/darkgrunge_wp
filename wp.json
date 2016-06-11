@@ -3,14 +3,14 @@
 		{
 			"name": "wallpaper_01",
 			"author": "darkgrunge",
-			"url": "https://github.com/nenadaut/darkgrunge_wp/blob/master/wallpaper_01.png",
+			"url": "https://raw.githubusercontent.com/nenadaut/darkgrunge_wp/master/wallpaper_01.png",
 			"dimensions": "960 x 800",
 			"copyright": "Copyright 2016 Nenad Ilievski."
 		},
 		{
 			"name": "wallpaper_02",
 			"author": "darkgrunge",
-			"url": "https://github.com/nenadaut/darkgrunge_wp/blob/master/wallpaper_02.png",
+			"url": "https://raw.githubusercontent.com/nenadaut/darkgrunge_wp/master/wallpaper_02.png",
 			"dimensions": "960 x 800",
 			"copyright": "Copyright 2016 Nenad Ilievski."
 		}
